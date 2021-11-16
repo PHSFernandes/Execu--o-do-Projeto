@@ -1,0 +1,11 @@
+1) Veleiro 
+Vantagem: Não requer combustível. Menor custo. Tripulação menor.
+Desvantagem: Mais lento, pois depende dos ventos. Mais frágil e requer habilidade.
+
+2) Hidroavião
+Vantagem: Mais rápido. Pousa na água.
+Desvantagem: Precisa de um piloto com experiência e rápido nas decisões.
+
+3) Barco de Pesca:
+Vantagem: Robusto e espaçoso
+Desvantagem: Exige força no leme 

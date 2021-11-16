@@ -1,0 +1,6 @@
+
+		Personagem    Força    Inteligência
+
+ Rick		7	    8
+ Mell		9	    6
+ Will		6	    9
