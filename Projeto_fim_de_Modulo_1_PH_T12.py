@@ -204,17 +204,3 @@ para acessar o tesouro [Dinamite / Alavanca de Ferro / Corda]: """)
         escolhaFerramenta()   
 
 escolhaTransporte()
-
-
-
-
-
-
-# #Para escolher a ferramenta:
-# with open('Escolha_da_Ferramenta.txt', 'r', encoding='utf-8') as file:
-#     text = file.read()
-
-# lines_of_text = text.splitlines()
-
-# for line in lines_of_text:
-#     print(line.center(60))
