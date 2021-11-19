@@ -1,0 +1,11 @@
+1) Dinamite 
+Vantagem: Remove objetos de forma rápida.
+Desvantagem: Pode ser perigoso.
+
+2) Alavanca de Ferro
+Vantagem: Consegue remover objetos pesados.
+Desvantagem: Requer força.
+
+3) Corda:
+Vantagem: Pode ajudar a escalar e remover objetos menos pesados.
+Desvantagem: É fraca e pode exigir alguma força. 

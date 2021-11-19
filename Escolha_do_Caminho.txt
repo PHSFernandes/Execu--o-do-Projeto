@@ -1,0 +1,11 @@
+1) Floresta 
+Vantagem: Apesar de ser um caminho que você não tem como saber como é, pode conter recursos interessantes.
+Desvantagem: Caminho em meio à uma floresta densa..
+
+2) Pântano
+Vantagem: Esse caminho é menos fechado que a floresta.
+Desvantagem: Pode esconder alguns perigos.
+
+3) Costa:
+Vantagem: Caminho aberto e de fácil orientação.
+Desvantagem: A costa é escarpada. 
